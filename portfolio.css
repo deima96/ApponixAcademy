@@ -336,6 +336,9 @@ header{
     background-color: #07374a;
     color: #f0f0e6;
 }
+.antags a:hover i{
+    color: #f0f0e6;
+}
 
 
 .more-work{
