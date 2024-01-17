@@ -112,6 +112,9 @@
 .w-100{
     width: 100px;
 }
+.w-200{
+    width: 200px;
+}
 .w-300{
     width: 300px;
 }
@@ -143,4 +146,31 @@
 }
 .p-150{
     padding: 150px 0;
+}
+.f-em{
+    font-size:.9em;
+}
+.f-1em{
+    font-size: 1em;
+}
+.f-1point3em{
+    font-size: 1.3em;
+}
+.f-2em{
+    font-size: 2em;
+}
+.bold{
+    font-weight: 600;
+}
+.yellow{
+    color: rgb(243, 243, 7);
+}
+.hr{
+    color: rgb(197, 196, 196);
+}
+.m-left{
+    margin: 0 23px;
+}
+.no-list-style{
+    list-style:none;
 }
